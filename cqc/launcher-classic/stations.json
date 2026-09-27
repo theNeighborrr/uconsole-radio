@@ -1,0 +1,980 @@
+{
+  "checked": "2026-09-23",
+  "scope": "Memphis, Shelby County and adjacent metro communities; regional extras marked separately. Analog FM plus the special 87.75 MHz audio service. No reception test on the uConsole has been performed.",
+  "stations": [
+    {
+      "frequency": "87.75",
+      "callsign": "WPGF-LD",
+      "brand": "Right On Radio",
+      "format": "Classic R&B and soul",
+      "city": "Memphis, TN",
+      "scope": "special",
+      "note": "Marketed as 87.7 FM; tune 87.75 MHz for this TV channel 6 audio service.",
+      "sources": [
+        {
+          "title": "WPGF-LD — station / operator reference",
+          "url": "https://www.rightonradiofm.com/"
+        },
+        {
+          "title": "FCC — channel 6 audio at 87.75 MHz",
+          "url": "https://docs.fcc.gov/public/attachments/FCC-22-40A1.pdf"
+        }
+      ]
+    },
+    {
+      "frequency": "88.1",
+      "callsign": "WURC",
+      "brand": "Rust College Public Radio",
+      "format": "College/community variety",
+      "city": "Holly Springs, MS",
+      "scope": "regional",
+      "note": "Holly Springs, southeast of Memphis; regional reception only.",
+      "sources": [
+        {
+          "title": "WURC — station / operator reference",
+          "url": "https://www.wurcfm.org/"
+        }
+      ]
+    },
+    {
+      "frequency": "88.5",
+      "callsign": "WQOX",
+      "brand": "The Voice of MSCS",
+      "format": "School / community programming",
+      "city": "Memphis, TN",
+      "scope": "metro",
+      "note": "Memphis-Shelby County Schools station.",
+      "sources": [
+        {
+          "title": "WQOX — station / operator reference",
+          "url": "https://voiceofmscs.com/"
+        }
+      ]
+    },
+    {
+      "frequency": "88.9",
+      "callsign": "WMSB",
+      "brand": "American Family Radio / AFR Talk",
+      "format": "Christian talk",
+      "city": "Byhalia, MS",
+      "scope": "metro",
+      "note": "Byhalia / southeast metro. Reception varies across the metro.",
+      "sources": [
+        {
+          "title": "WMSB — station / operator reference",
+          "url": "https://afr.net/media/dznd1pym/current-station-listing-01292025.pdf"
+        }
+      ]
+    },
+    {
+      "frequency": "89.3",
+      "callsign": "WYPL",
+      "brand": "Memphis Public Libraries radio",
+      "format": "Radio reading service and Memphis music",
+      "city": "Memphis, TN",
+      "scope": "metro",
+      "note": "Memphis Public Libraries: reading service and Memphis music.",
+      "sources": [
+        {
+          "title": "WYPL — station / operator reference",
+          "url": "https://www.memphislibrary.org/wypl/"
+        }
+      ]
+    },
+    {
+      "frequency": "89.9",
+      "callsign": "WEVL",
+      "brand": "Volunteer Radio",
+      "format": "Independent volunteer/freeform music",
+      "city": "Memphis, TN",
+      "scope": "metro",
+      "note": "Volunteer-programmed music; styles vary by show.",
+      "sources": [
+        {
+          "title": "WEVL — station / operator reference",
+          "url": "https://wevl.org/"
+        }
+      ]
+    },
+    {
+      "frequency": "90.1",
+      "callsign": "KCVC",
+      "brand": "Bott Radio Network",
+      "format": "Christian talk/teaching",
+      "city": "Cherry Valley, AR",
+      "scope": "regional",
+      "note": "Cherry Valley, Arkansas; regional reception west of Memphis.",
+      "sources": [
+        {
+          "title": "KCVC — station / operator reference",
+          "url": "https://www.bottradionetwork.com/stations"
+        }
+      ]
+    },
+    {
+      "frequency": "90.3",
+      "callsign": "WMAV-FM",
+      "brand": "MPB Think Radio",
+      "format": "Public radio/news/talk",
+      "city": "Oxford, MS",
+      "scope": "regional",
+      "note": "Oxford, Mississippi; regional reception south of Memphis.",
+      "sources": [
+        {
+          "title": "WMAV-FM — station / operator reference",
+          "url": "https://www.mpbonline.org/bento-api/filer-file-download/434553/"
+        }
+      ]
+    },
+    {
+      "frequency": "90.5",
+      "callsign": "K213CN",
+      "brand": "Bott Radio Network",
+      "format": "Christian talk and teaching",
+      "city": "West Memphis, AR",
+      "scope": "metro",
+      "note": "West Memphis FM relay of Bott Radio Network.",
+      "sources": [
+        {
+          "title": "K213CN — station / operator reference",
+          "url": "https://bottradionetwork.com/station/90-5-fm-west-memphis-ar/"
+        },
+        {
+          "title": "Network station list",
+          "url": "https://www.bottradionetwork.com/stations"
+        }
+      ]
+    },
+    {
+      "frequency": "91.1",
+      "callsign": "WKNO-FM",
+      "brand": "WKNO / NPR for the Mid-South",
+      "format": "Public radio, NPR news and classical music",
+      "city": "Memphis, TN",
+      "scope": "metro",
+      "note": "A useful first station to try. Schedule includes news and classical music.",
+      "sources": [
+        {
+          "title": "WKNO-FM — station / operator reference",
+          "url": "https://www.wknofm.org/"
+        }
+      ]
+    },
+    {
+      "frequency": "91.7",
+      "callsign": "WYXR",
+      "brand": "WYXR",
+      "format": "Community/freeform music, arts and culture",
+      "city": "Memphis, TN",
+      "scope": "metro",
+      "note": "Local music, arts and community programming; styles vary by show.",
+      "sources": [
+        {
+          "title": "WYXR — station / operator reference",
+          "url": "https://wyxr.org/"
+        }
+      ]
+    },
+    {
+      "frequency": "92.1",
+      "callsign": "W221CR",
+      "brand": "600 WREC simulcast",
+      "format": "News/talk",
+      "city": "Memphis, TN",
+      "scope": "unconfirmed",
+      "note": "Listed as the FM relay of WREC AM 600. Current FM transmission not confirmed; the broadcaster emphasizes AM 600.",
+      "sources": [
+        {
+          "title": "W221CR — station / operator reference",
+          "url": "https://600wrec.iheart.com/"
+        },
+        {
+          "title": "Engineering listing (FCC data mirror)",
+          "url": "https://www.fccinfo.com/CMDProEngine.php?sAppIDNumber=cc426ce6418f42159468c1b6063ebeb7&sCurrentService=FM&tabSearchType=Appl"
+        }
+      ]
+    },
+    {
+      "frequency": "92.5",
+      "callsign": "KWYN-FM",
+      "brand": "Country 92.5",
+      "format": "Country",
+      "city": "Wynne, AR",
+      "scope": "regional",
+      "note": "Wynne, Arkansas; regional reception west of Memphis.",
+      "sources": [
+        {
+          "title": "KWYN-FM — station / operator reference",
+          "url": "https://kwyn.com/about-eab/"
+        }
+      ]
+    },
+    {
+      "frequency": "92.7",
+      "callsign": "WKRA-FM",
+      "brand": "The Change 92.7",
+      "format": "Gospel / Christian",
+      "city": "Holly Springs, MS",
+      "scope": "regional",
+      "note": "Holly Springs, Mississippi; regional reception southeast of Memphis.",
+      "sources": [
+        {
+          "title": "WKRA-FM — station / operator reference",
+          "url": "https://thechange927.com/"
+        }
+      ]
+    },
+    {
+      "frequency": "92.9",
+      "callsign": "WMFS-FM",
+      "brand": "92.9 FM ESPN & 680 AM",
+      "format": "Sports",
+      "city": "Bartlett, TN",
+      "scope": "metro",
+      "note": "",
+      "sources": [
+        {
+          "title": "WMFS-FM — station / operator reference",
+          "url": "https://www.audacy.com/929espn"
+        }
+      ]
+    },
+    {
+      "frequency": "93.3",
+      "callsign": "KWEM-LP",
+      "brand": "KWEM Radio",
+      "format": "College/community; historically blues, gospel and oldies",
+      "city": "West Memphis, AR",
+      "scope": "unconfirmed",
+      "note": "93.3 MHz is supported by FCC and college records. Current transmission and schedule not confirmed; some directories disagree on the frequency.",
+      "sources": [
+        {
+          "title": "KWEM-LP — station / operator reference",
+          "url": "https://docs.fcc.gov/public/attachments/DOC-364435A1.pdf"
+        }
+      ]
+    },
+    {
+      "frequency": "93.5",
+      "callsign": "WKBQ",
+      "brand": "US 51 Country",
+      "format": "Country and community",
+      "city": "Covington, TN",
+      "scope": "regional",
+      "note": "Covington / Tipton County. Shares 93.5 with Memphis WMDA-LP; the station heard depends on location.",
+      "sources": [
+        {
+          "title": "WKBQ — station / operator reference",
+          "url": "https://us51country.com/"
+        }
+      ]
+    },
+    {
+      "frequency": "93.5",
+      "callsign": "WMDA-LP",
+      "brand": "The Memphis Clarion / Memphis Dawah",
+      "format": "Community and Islamic programming",
+      "city": "Memphis, TN",
+      "scope": "unconfirmed",
+      "note": "Whitehaven community LPFM. Current transmission and schedule not confirmed. Shares 93.5 with WKBQ in Covington.",
+      "sources": [
+        {
+          "title": "WMDA-LP — station / operator reference",
+          "url": "https://www.thememphisclarion.org/wp-content/uploads/2018/02/WMDA-Underwriting-Packet.pdf"
+        },
+        {
+          "title": "Engineering listing (FCC data mirror)",
+          "url": "https://www.fccinfo.com/CMDProEngine.php?sAppIDNumber=f43450d0cc7d4259bdb0c1b6063ebeb7&sCurrentService=FM&tabSearchType=Appl"
+        }
+      ]
+    },
+    {
+      "frequency": "93.7",
+      "callsign": "W229CT",
+      "brand": "Bott Radio Network",
+      "format": "Christian talk and teaching",
+      "city": "Memphis, TN",
+      "scope": "metro",
+      "note": "Memphis FM relay of Bott Radio Network.",
+      "sources": [
+        {
+          "title": "W229CT — station / operator reference",
+          "url": "https://www.bottradionetwork.com/stations"
+        }
+      ]
+    },
+    {
+      "frequency": "94.1",
+      "callsign": "WKVF",
+      "brand": "K-LOVE",
+      "format": "Contemporary Christian music",
+      "city": "Germantown, TN",
+      "scope": "metro",
+      "note": "Now K-LOVE; older 94.1 listings using The Wolf or WMLE are outdated.",
+      "sources": [
+        {
+          "title": "WKVF — station / operator reference",
+          "url": "https://www.klove.com/music/station-finder/stations/WKVF"
+        }
+      ]
+    },
+    {
+      "frequency": "94.9",
+      "callsign": "WWAI",
+      "brand": "Air1",
+      "format": "Contemporary worship music",
+      "city": "Bartlett, TN",
+      "scope": "metro",
+      "note": "Now Air1; older 94.9 K-LOVE listings are outdated.",
+      "sources": [
+        {
+          "title": "WWAI — station / operator reference",
+          "url": "https://www.air1.com/music/station-finder/stations/WWAI"
+        }
+      ]
+    },
+    {
+      "frequency": "95.3",
+      "callsign": "WEBL",
+      "brand": "95.3 The Rebel",
+      "format": "Country",
+      "city": "Coldwater, MS",
+      "scope": "metro",
+      "note": "Coldwater / DeSoto County and the south metro.",
+      "sources": [
+        {
+          "title": "WEBL — station / operator reference",
+          "url": "https://mississippicountry.com/contact"
+        }
+      ]
+    },
+    {
+      "frequency": "95.7",
+      "callsign": "WHAL-FM",
+      "brand": "Hallelujah FM",
+      "format": "Gospel",
+      "city": "Horn Lake, MS",
+      "scope": "metro",
+      "note": "",
+      "sources": [
+        {
+          "title": "WHAL-FM — station / operator reference",
+          "url": "https://hallelujahfm.iheart.com/"
+        }
+      ]
+    },
+    {
+      "frequency": "96.1",
+      "callsign": "WIVG",
+      "brand": "Air1",
+      "format": "Contemporary worship music",
+      "city": "Tunica, MS",
+      "scope": "metro",
+      "note": "Tunica / south metro. Now Air1.",
+      "sources": [
+        {
+          "title": "WIVG — station / operator reference",
+          "url": "https://www.air1.com/music/station-finder/stations/WIVG"
+        }
+      ]
+    },
+    {
+      "frequency": "96.3",
+      "callsign": "W242CF",
+      "brand": "Bumpin' 96.3",
+      "format": "Throwback hip-hop and R&B",
+      "city": "Memphis, TN",
+      "scope": "metro",
+      "note": "Memphis FM translator; reception varies by location.",
+      "sources": [
+        {
+          "title": "W242CF — station / operator reference",
+          "url": "https://bumpin963.com/"
+        }
+      ]
+    },
+    {
+      "frequency": "96.7",
+      "callsign": "W244BY",
+      "brand": "BOOST Radio",
+      "format": "Christian hip-hop/pop",
+      "city": "Memphis, TN",
+      "scope": "metro",
+      "note": "BOOST is on analog FM 96.7; no HD Radio decoder needed.",
+      "sources": [
+        {
+          "title": "W244BY — station / operator reference",
+          "url": "https://boostradio.com/bring-boost/"
+        }
+      ]
+    },
+    {
+      "frequency": "97.1",
+      "callsign": "WHRK",
+      "brand": "K97",
+      "format": "Hip-hop and R&B",
+      "city": "Memphis, TN",
+      "scope": "metro",
+      "note": "",
+      "sources": [
+        {
+          "title": "WHRK — station / operator reference",
+          "url": "https://k97fm.iheart.com/"
+        }
+      ]
+    },
+    {
+      "frequency": "97.7",
+      "callsign": "W249BN",
+      "brand": "The Good Shepherd",
+      "format": "Christian praise, worship and hymns",
+      "city": "Memphis, TN",
+      "scope": "metro",
+      "note": "Now The Good Shepherd. Older Radio Pig listings are outdated.",
+      "sources": [
+        {
+          "title": "W249BN — station / operator reference",
+          "url": "https://www.thegoodshepherd977fm.com/"
+        }
+      ]
+    },
+    {
+      "frequency": "98.1",
+      "callsign": "WXMX",
+      "brand": "98.1 The Max",
+      "format": "Rock",
+      "city": "Millington, TN",
+      "scope": "metro",
+      "note": "",
+      "sources": [
+        {
+          "title": "WXMX — station / operator reference",
+          "url": "https://www.981themax.com/"
+        }
+      ]
+    },
+    {
+      "frequency": "98.5",
+      "callsign": "W253DF",
+      "brand": "Sports 56",
+      "format": "Sports talk / WHBQ AM560 simulcast",
+      "city": "Memphis, TN",
+      "scope": "metro",
+      "note": "FM relay of Sports 56 / WHBQ AM 560.",
+      "sources": [
+        {
+          "title": "W253DF — station / operator reference",
+          "url": "https://sports56whbq.com/"
+        }
+      ]
+    },
+    {
+      "frequency": "98.9",
+      "callsign": "WKIM",
+      "brand": "News Talk 98.9",
+      "format": "News/talk",
+      "city": "Munford, TN",
+      "scope": "metro",
+      "note": "",
+      "sources": [
+        {
+          "title": "WKIM — station / operator reference",
+          "url": "https://www.newstalk989.com/"
+        }
+      ]
+    },
+    {
+      "frequency": "99.3",
+      "callsign": "W257CY",
+      "brand": "La Jefa 99.3",
+      "format": "Spanish-language programming",
+      "city": "Memphis, TN",
+      "scope": "metro",
+      "note": "Spanish-language station; the operator lists La Jefa 99.3.",
+      "sources": [
+        {
+          "title": "W257CY — station / operator reference",
+          "url": "https://play.google.com/store/apps/details?hl=en_US&id=com.wgue.player"
+        }
+      ]
+    },
+    {
+      "frequency": "99.7",
+      "callsign": "WLFP",
+      "brand": "99.7 The Wolf",
+      "format": "Country",
+      "city": "Memphis, TN",
+      "scope": "metro",
+      "note": "The Wolf is now on 99.7; older FM100 listings are outdated.",
+      "sources": [
+        {
+          "title": "WLFP — station / operator reference",
+          "url": "https://www.audacy.com/997thewolf"
+        }
+      ]
+    },
+    {
+      "frequency": "100.1",
+      "callsign": "W261CE",
+      "brand": "DeSoto-area translator",
+      "format": "Current programming unconfirmed",
+      "city": "Southaven, MS",
+      "scope": "unconfirmed",
+      "note": "Southaven / DeSoto translator. Sources disagree on current name and programming; tune to identify it locally.",
+      "sources": [
+        {
+          "title": "W261CE — source 1",
+          "url": "https://www.hernandoms.org/list/member/north-mississippi-media-group-llc-95-3-the-rebel-3840"
+        },
+        {
+          "title": "W261CE — source 2",
+          "url": "https://www.visitdesotocounty.com/events/detail/sunset-on-the-square"
+        },
+        {
+          "title": "W261CE — source 3",
+          "url": "https://localradio.us/stations/memphis-tn/"
+        }
+      ]
+    },
+    {
+      "frequency": "100.3",
+      "callsign": "WVZM-LP",
+      "brand": "Jubilee 100.3 FM",
+      "format": "Contemporary Christian and gospel",
+      "city": "Memphis, TN",
+      "scope": "metro",
+      "note": "Now Jubilee. LPFM coverage is limited; older Visible Radio listings are outdated.",
+      "sources": [
+        {
+          "title": "WVZM-LP — source 1",
+          "url": "https://www.jubilee1003fm.com/"
+        },
+        {
+          "title": "WVZM-LP — source 2",
+          "url": "https://localradio.us/stations/memphis-tn/"
+        }
+      ]
+    },
+    {
+      "frequency": "100.5",
+      "callsign": "WBLE",
+      "brand": "100.5 The New Sound of Country",
+      "format": "Country",
+      "city": "Batesville, MS",
+      "scope": "regional",
+      "note": "Batesville, Mississippi. Shares 100.5 with Memphis WJLL-LP; regional reception only.",
+      "sources": [
+        {
+          "title": "WBLE — source 1",
+          "url": "https://wble101.com/"
+        }
+      ]
+    },
+    {
+      "frequency": "100.5",
+      "callsign": "WJLL-LP",
+      "brand": "WJLL-LP",
+      "format": "Current programming unconfirmed",
+      "city": "Memphis, TN",
+      "scope": "unconfirmed",
+      "note": "Memphis LPFM listed in licensing records. Current transmission and programming not confirmed.",
+      "sources": [
+        {
+          "title": "WJLL-LP — source 1",
+          "url": "https://www.fccinfo.com/CMDProFacLookup.php?sCity=MEMPHIS&sCurrentService=FM&sState=TN&tabSearchType=City"
+        },
+        {
+          "title": "WJLL-LP — source 2",
+          "url": "https://radiostation.info/fm/tennessee/WJLL-LP/"
+        },
+        {
+          "title": "WJLL-LP — source 3",
+          "url": "https://docs.fcc.gov/public/attachments/DOC-365607A1.pdf"
+        }
+      ]
+    },
+    {
+      "frequency": "100.7",
+      "callsign": "W264CO",
+      "brand": "Bott Radio Network",
+      "format": "Christian teaching and talk",
+      "city": "Marion, AR",
+      "scope": "metro",
+      "note": "Bott markets this frequency to the south Memphis metro.",
+      "sources": [
+        {
+          "title": "W264CO — source 1",
+          "url": "https://bottradionetwork.com/stations/"
+        },
+        {
+          "title": "W264CO — source 2",
+          "url": "https://bottradionetwork.com/station/100-7-fm-memphis-tn/"
+        },
+        {
+          "title": "W264CO — source 3",
+          "url": "https://bottradionetwork.com/2019/07/brn-expands-in-tennessee/"
+        },
+        {
+          "title": "W264CO — source 4",
+          "url": "https://radiostation.info/fm/arkansas/W264CO/"
+        }
+      ]
+    },
+    {
+      "frequency": "101.1",
+      "callsign": "KJMS",
+      "brand": "V101",
+      "format": "R&B and old school / urban adult contemporary",
+      "city": "Olive Branch, MS",
+      "scope": "metro",
+      "note": "",
+      "sources": [
+        {
+          "title": "KJMS — source 1",
+          "url": "https://myv101.iheart.com/"
+        },
+        {
+          "title": "KJMS — source 2",
+          "url": "https://docs.fcc.gov/public/attachments/DOC-367668A1.pdf"
+        }
+      ]
+    },
+    {
+      "frequency": "101.5",
+      "callsign": "W268DP",
+      "brand": "Radio Ambiente",
+      "format": "Spanish-language music and talk",
+      "city": "Memphis, TN",
+      "scope": "metro",
+      "note": "Radio Ambiente is promoted by its owner at 101.5. Current engineering listings identify W268DP, formerly K268DA.",
+      "sources": [
+        {
+          "title": "W268DP — source 1",
+          "url": "https://butronmedia.com/"
+        },
+        {
+          "title": "W268DP — source 2",
+          "url": "https://www.linkedin.com/posts/ivette-butron-07b0ab15a_butronmedia-lajefa993fm-radioambiente1015fm-activity-7499181611175890945-JEwH"
+        },
+        {
+          "title": "W268DP — source 3",
+          "url": "https://www.radioworld.com/news-and-business/headlines/thieves-ravage-memphis-am-radio-transmitter-site"
+        },
+        {
+          "title": "W268DP — source 4",
+          "url": "https://www.fccinfo.com/CMDProFacLookup.php?sCity=MEMPHIS&sCurrentService=FM&sState=TN&tabSearchType=City"
+        }
+      ]
+    },
+    {
+      "frequency": "101.9",
+      "callsign": "KWNW",
+      "brand": "Rock 102",
+      "format": "Classic rock",
+      "city": "Crawfordsville, AR",
+      "scope": "metro",
+      "note": "Rock 102 is on 101.9 MHz.",
+      "sources": [
+        {
+          "title": "KWNW — source 1",
+          "url": "https://rock102memphis.iheart.com/"
+        },
+        {
+          "title": "KWNW — source 2",
+          "url": "https://localradio.us/stations/memphis-tn/"
+        }
+      ]
+    },
+    {
+      "frequency": "102.3",
+      "callsign": "KTRQ",
+      "brand": "Oldies 102.3",
+      "format": "Oldies",
+      "city": "Colt, AR",
+      "scope": "regional",
+      "note": "Colt / Wynne, Arkansas; regional reception west of Memphis.",
+      "sources": [
+        {
+          "title": "KTRQ — source 1",
+          "url": "https://www.stuttgartdailyleader.com/about-eab/"
+        }
+      ]
+    },
+    {
+      "frequency": "102.7",
+      "callsign": "WEGR",
+      "brand": "102.7 Kiss FM",
+      "format": "Pop variety / hot adult contemporary",
+      "city": "Arlington, TN",
+      "scope": "metro",
+      "note": "Now Kiss FM; older Rock 103 listings are outdated.",
+      "sources": [
+        {
+          "title": "WEGR — source 1",
+          "url": "https://1027kissfm.iheart.com/"
+        }
+      ]
+    },
+    {
+      "frequency": "103.1",
+      "callsign": "W276BH",
+      "brand": "Sunny 1210 & 103.1",
+      "format": "Adult standards and soft oldies",
+      "city": "Memphis, TN",
+      "scope": "metro",
+      "note": "FM relay of Sunny / WMPS AM 1210.",
+      "sources": [
+        {
+          "title": "W276BH — source 1",
+          "url": "https://sunny1210.com/about/"
+        }
+      ]
+    },
+    {
+      "frequency": "103.5",
+      "callsign": "WRBO",
+      "brand": "103.5 WRBO",
+      "format": "R&B / urban adult contemporary",
+      "city": "Germantown, TN",
+      "scope": "metro",
+      "note": "",
+      "sources": [
+        {
+          "title": "WRBO — source 1",
+          "url": "https://www.1035wrbo.com/"
+        },
+        {
+          "title": "WRBO — source 2",
+          "url": "https://localradio.us/stations/memphis-tn/"
+        }
+      ]
+    },
+    {
+      "frequency": "103.9",
+      "callsign": "KERL",
+      "brand": "KERL",
+      "format": "Classic rock",
+      "city": "Earle, AR",
+      "scope": "regional",
+      "note": "Earle, Arkansas; regional signal. Previously listed as KHGA.",
+      "sources": [
+        {
+          "title": "KERL — source 1",
+          "url": "https://www.stuttgartdailyleader.com/about-eab/"
+        }
+      ]
+    },
+    {
+      "frequency": "104.1",
+      "callsign": "W281BR",
+      "brand": "Power 104.1 The Source",
+      "format": "Southern soul, blues and R&B",
+      "city": "Memphis, TN",
+      "scope": "metro",
+      "note": "FM relay of Power 104.1 / WMSO AM 1240.",
+      "sources": [
+        {
+          "title": "W281BR — source 1",
+          "url": "https://power1041thesource.com/"
+        },
+        {
+          "title": "W281BR — source 2",
+          "url": "https://radiostation.info/fm/memphis-tn/"
+        }
+      ]
+    },
+    {
+      "frequency": "104.5",
+      "callsign": "WRVR",
+      "brand": "104.5 The River",
+      "format": "Adult contemporary",
+      "city": "Memphis, TN",
+      "scope": "metro",
+      "note": "",
+      "sources": [
+        {
+          "title": "WRVR — source 1",
+          "url": "https://www.audacy.com/1045theriver"
+        }
+      ]
+    },
+    {
+      "frequency": "104.9",
+      "callsign": "W285FI",
+      "brand": "WLOK FM105 / AM1340",
+      "format": "Gospel",
+      "city": "Memphis, TN",
+      "scope": "metro",
+      "note": "Marketed as FM 105; tune 104.9 MHz. Relay of WLOK AM 1340.",
+      "sources": [
+        {
+          "title": "W285FI — source 1",
+          "url": "https://www.wlok.com/"
+        },
+        {
+          "title": "W285FI — source 2",
+          "url": "https://radiostation.info/fm/memphis-tn/"
+        }
+      ]
+    },
+    {
+      "frequency": "105.5",
+      "callsign": "W288BJ",
+      "brand": "The Truth / Wilkins Radio",
+      "format": "Christian teaching and talk",
+      "city": "Memphis, TN",
+      "scope": "metro",
+      "note": "FM relay of The Truth / WUMY AM 830.",
+      "sources": [
+        {
+          "title": "W288BJ — source 1",
+          "url": "https://www.wilkinsradio.com/our-stations/wumy-the-truth/"
+        },
+        {
+          "title": "W288BJ — source 2",
+          "url": "https://radiostation.info/fm/memphis-tn/"
+        }
+      ]
+    },
+    {
+      "frequency": "105.9",
+      "callsign": "WGKX",
+      "brand": "Kix 106",
+      "format": "Country",
+      "city": "Memphis, TN",
+      "scope": "metro",
+      "note": "Marketed as Kix 106; tune 105.9 MHz.",
+      "sources": [
+        {
+          "title": "WGKX — source 1",
+          "url": "https://www.kix106.com/"
+        },
+        {
+          "title": "WGKX — source 2",
+          "url": "https://tabtn.org/stations/"
+        }
+      ]
+    },
+    {
+      "frequency": "106.3",
+      "callsign": "W292EL",
+      "brand": "Radio by Grace",
+      "format": "Christian teaching and music",
+      "city": "Memphis, TN",
+      "scope": "metro",
+      "note": "Analog FM relay. You do not need an HD Radio decoder to listen here.",
+      "sources": [
+        {
+          "title": "W292EL — source 1",
+          "url": "https://www.radiobygrace.com/station-list/"
+        }
+      ]
+    },
+    {
+      "frequency": "106.7",
+      "callsign": "W294BP",
+      "brand": "American Family Radio (AFR Talk)",
+      "format": "Christian talk",
+      "city": "Memphis, TN",
+      "scope": "metro",
+      "note": "Memphis translator listed by American Family Radio.",
+      "sources": [
+        {
+          "title": "W294BP — source 1",
+          "url": "https://afr.net/station-finder/"
+        }
+      ]
+    },
+    {
+      "frequency": "106.9",
+      "callsign": "WHKL",
+      "brand": "106.9 Country Legends",
+      "format": "Classic country",
+      "city": "Crenshaw, MS",
+      "scope": "regional",
+      "note": "Crenshaw, Mississippi; regional reception south of Memphis.",
+      "sources": [
+        {
+          "title": "WHKL — source 1",
+          "url": "https://1069countrylegends.com/"
+        }
+      ]
+    },
+    {
+      "frequency": "107.1",
+      "callsign": "KXHT",
+      "brand": "Hot 107.1",
+      "format": "Hip-hop, R&B and throwbacks",
+      "city": "Marion, AR",
+      "scope": "metro",
+      "note": "",
+      "sources": [
+        {
+          "title": "KXHT — source 1",
+          "url": "https://hot1071.com/"
+        },
+        {
+          "title": "KXHT — source 2",
+          "url": "https://localradio.us/stations/memphis-tn/"
+        }
+      ]
+    },
+    {
+      "frequency": "107.3",
+      "callsign": "KOSE-FM",
+      "brand": "KOSE-FM",
+      "format": "Classic rock",
+      "city": "Osceola, AR",
+      "scope": "regional",
+      "note": "Osceola, Arkansas; regional reception north of Memphis.",
+      "sources": [
+        {
+          "title": "KOSE-FM — source 1",
+          "url": "https://www.stuttgartdailyleader.com/about-eab/"
+        }
+      ]
+    },
+    {
+      "frequency": "107.5",
+      "callsign": "WHBQ-FM",
+      "brand": "Sports 56",
+      "format": "Sports talk",
+      "city": "Germantown, TN",
+      "scope": "metro",
+      "note": "Sports 56 moved onto 107.5 in September 2026; the station’s own podcast announcements confirm it. Older Q107.5 listings are outdated.",
+      "sources": [
+        {
+          "title": "Sports 56 official episode feed — September 2026 frequency announcements",
+          "url": "https://sports56whbq.com/index.php/component/podcastmanager/?feedname=4&format=raw"
+        },
+        {
+          "title": "Station-authored episode feed, readable mirror",
+          "url": "https://rssamplifier.com/mornings-with-greg-eli"
+        }
+      ]
+    },
+    {
+      "frequency": "107.9",
+      "callsign": "W300DE",
+      "brand": "KWAM The Mighty 990",
+      "format": "News and conservative talk",
+      "city": "Memphis, TN",
+      "scope": "metro",
+      "note": "FM relay of KWAM AM 990.",
+      "sources": [
+        {
+          "title": "W300DE — source 1",
+          "url": "https://mighty990.com/about/"
+        },
+        {
+          "title": "W300DE — source 2",
+          "url": "https://mighty990.com/debate-night/"
+        },
+        {
+          "title": "W300DE — source 3",
+          "url": "https://radiostation.info/fm/memphis-tn/"
+        }
+      ]
+    }
+  ]
+}
